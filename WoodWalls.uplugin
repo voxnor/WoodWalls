@@ -20,6 +20,18 @@
 			"Name": "SML",
 			"Enabled": true,
 			"SemVersion": "^3.12.0"
+		},
+		{
+			"Name": "MoreWalls",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^1"
+		},
+		{
+			"Name": "SGRoughConcreteWallMaterial",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^1"
 		}
 	],
 	"SemVersion": "1.0.1",
