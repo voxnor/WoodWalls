@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.0",
+	"VersionName": "1.2.0",
 	"FriendlyName": "Wood Walls (and Roofs)",
 	"Description": "Adds Wood Walls (and Roofs) in several styles!",
 	"Category": "Modding",
@@ -32,8 +32,14 @@
 			"Enabled": true,
 			"Optional": true,
 			"SemVersion": "^1"
+		},
+		{
+			"Name": "AnotherFicsitWall",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^1"
 		}
 	],
-	"SemVersion": "1.1.0",
+	"SemVersion": "1.2.0",
 	"GameVersion": ">=491125"
 }
